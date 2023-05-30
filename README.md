@@ -17,8 +17,7 @@ Using encoded k-mer represented fasta sequences in the dataset.
 # DeepPPThermo.py
 The subject of the algorithm. Use features in the dataset to predict and classify proteins.
 
-# BiLSTM.py 
-# SSFs+attention
+# BiLSTM.py SSFs+attention.py
 An algorithm that uses only one type of feature
 
 # robust_test.py
